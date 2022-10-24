@@ -26,6 +26,7 @@ All content on this page can be reused subject to providing credit and license n
 
 ## About us
 
+The AI for Public Services team is part of the Public Policy Programme at the Alan Turing Institute, you can read more at: https://www.turing.ac.uk/research/research-programmes/public-policy. 
 
 ## Contact
 
