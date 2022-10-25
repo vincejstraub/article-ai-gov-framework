@@ -3,6 +3,14 @@
 {:toc}
 </nav>
 
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
+
+## Summary
+
 As artificial intelligence (AI) is adopted by government, we argue that a balanced account is needed to understand the consequences of embedding AI into a public sector context. Here, we unify theoretical efforts across social and technical disciplines by mapping over 100 different terms used in the  study of AI. We inductively sort these into three distinct semantic groups: the (a) operational, (b) epistemic, and (c) normative domains. We then propose three new  concepts to study AI-based systems for government (AI-GOV): (1) _operational fitness_, (2) _epistemic completeness_, and (3) _normative salience_. Finally, we use these concepts as dimensions in a typological framework of AI-GOV and connecting each with emerging AI technical measurement standards.
 
 ## Context
