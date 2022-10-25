@@ -10,4 +10,4 @@ Straub, V. J., Morgan, D., Bright, J., and Margetts, H. 2022. Adopting artificia
 All content on the page can be reused subject to providing credit and license notice under a Creative Commons Attribution 4.0 International license.
 
 ## Contact
-Corresponding authors: [vstraub@turing.ac.uk](mailto: vstraub@turing.ac.uk) and [jbright@turing.ac.uk](mailto: jbright@turing.ac.uk)
+Corresponding authors: [vstraub@turing.ac.uk](mailto:vstraub@turing.ac.uk) and [jbright@turing.ac.uk](mailto:jbright@turing.ac.uk)
