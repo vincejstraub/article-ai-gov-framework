@@ -18,7 +18,9 @@ To capture the full breadth of analytical perspectives needed to understand AI-G
 
 _**Table 1.** Concepts used in the study of AI-based systems in government categorised by domain_
 
-<img src="media/2022-tai-table1.png">
+<p align="center">
+  <img src="media/2022-tai-table1.png" width="800" />
+</p>
 
 ## Concept map
 
@@ -45,13 +47,17 @@ Based on our mapping of the AI in government field, we contend that a new concep
 
 _**Table 2.** Proposed dimensions to analyse and classify AI systems in government_
 
-<img src="media/2022-tai-table2.png">
+<p align="center">
+  <img src="media/2022-tai-table2.png" width="800" />
+</p>
 
 Table 3 provides full-length definitions of the scales proposed for each dimension and relates each to emerging measurements standards, recommended metrics and methods for the measurement and evaluation of AI technologies. 
 
 _**Table 3.** Characteristics of proposed dimensions to classify AI-based systems in government_ 
 
-<img src="media/2022-tai-table3.png">
+<p align="center">
+  <img src="media/2022-tai-table3.png" width="800" />
+</p>
 
 ## Typology
 
