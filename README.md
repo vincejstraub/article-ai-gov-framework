@@ -1,7 +1,6 @@
 # Adopting artificial intelligence in government: a unified framework and review
-This page is a companion page for the article Adopting artificial intelligence in government: a unified framework and review, written by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. It hosts tables and visualizations presented in the article which may be reused under a Creative Commons Attribution 4.0 International license
+This page is a companion page for the article [_Adopting artificial intelligence in government: a unified framework_](https://www.turing.ac.uk/research/research-programmes/public-policy) and review, written by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. It hosts tables and visualizations presented in the article which may be reused under a Creative Commons Attribution 4.0 International license
 
-[Access draft paper](https://www.turing.ac.uk/research/research-programmes/public-policy)
 
 ## Citation
 Straub, V. J., Morgan, D., Bright, J., and Margetts, H. 2022. Adopting artificial intelligence in government: a unified framework and review.
