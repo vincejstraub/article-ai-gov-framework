@@ -3,11 +3,6 @@
 {:toc}
 </nav>
 
-<style scoped>
-table {
-  font-size: 13px;
-}
-</style>
 
 ## Summary
 
