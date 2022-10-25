@@ -64,4 +64,4 @@ All content on this page can be reused subject to providing credit and license n
 This is a project by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margett. We are researchers in the AI for Public Services team and the Public Policy Programme at the Alan Turing Institute, you can read more about the programme and institute at: https://www.turing.ac.uk/research/research-programmes/public-policy. 
 
 ## Contact
-Corresponding authors: vstraub@turing.ac.uk, jbright@turing.ac.uk
+Corresponding authors: [vstraub@turing.ac.uk](mailto:vstraub@turing.ac.uk) and [jbright@turing.ac.uk](mailto:jbright@turing.ac.uk)
