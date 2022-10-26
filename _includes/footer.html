@@ -1,28 +1,27 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="/"></data>
 
   <div class="wrapper">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
+    <h2 class="footer-heading">Public Policy Programme, Alan Turing Institute</h2>
 
-    <div class="social-links">
-      {%- include social.html -%}
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Contact</li><li><a class="u-email" href="mailto:vstraub@turing.ac.uk">vstraub#turing.ac.uk</a></li></ul>
+      <a href="https://www.turing.ac.uk/" target="_blank"><img src="/images/alan_turing_logo.png" ></a>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul style="list-style-type:none">
+          <li>Find out more at: </li>
+          <li><a href="https://www.turing.ac.uk/research/research-programmes/public-policy" target="_blank">www.turing.ac.uk</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>Artificial intelligence in government: a unified framework and review.</p>
+      </div>
     </div>
 
   </div>
