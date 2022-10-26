@@ -4,6 +4,7 @@ toc: true
 author: Public Policy Programme, Alan Turing Institute
 baseurl: /ai-gov-framework
 show_excerpts: true 
+logo: /images/alan_turing_institute_logo.jpeg
 
 theme: minima
 
