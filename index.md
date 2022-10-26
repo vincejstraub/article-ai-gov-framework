@@ -10,7 +10,7 @@ This is a companion page for the article _Adopting artificial intelligence in go
 
 As artificial intelligence (AI) is adopted by government, we argue that a balanced account is needed to understand the consequences of embedding AI into a public sector context. Here, we unify theoretical efforts across social and technical disciplines by mapping over 100 different terms used in the  study of AI. We inductively sort these into three distinct semantic groups: the (a) operational, (b) epistemic, and (c) normative domains. We then propose three new  concepts to study AI-based systems for government (AI-GOV): (1) **operational fitness**, (2) **epistemic completeness**, and (3) **normative salience**. Finally, we use these concepts as dimensions in a typological framework of AI-GOV and connect each with emerging AI technical measurement standards.
 
-## Context
+## Background
 
 Recent advances in artificial intelligence (AI) hold promise to improve government. Key tasks that governments have been able to use AI for to improve service delivery include detection, prediction, and simulation. Notable applications range from facial-recognition in policing and recidivism prediction in criminal justice, to the use of virtual agents in process automation (Ojo et al., 2019) and forecasting future needs in social services. Yet, as public agencies begin to adopt AI applications, it is critical that these are embedded using standard operational procedures, clear epistemic criteria, and are in alignment with the normative concerns of society.
 
