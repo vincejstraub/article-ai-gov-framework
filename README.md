@@ -1,6 +1,7 @@
 # To Do: 
 
-1. Add zoom function for hovering over images
+1. Update content
+2. Add zoom function for hovering over images
 3. Add download paper button
 
 # Adopting artificial intelligence in government: a unified framework and review
