@@ -16,7 +16,7 @@ Recent advances in artificial intelligence (AI) hold promise to improve governme
 
 To capture the full breadth of analytical perspectives needed to understand AI-GOV, we advance a bottom-up approach and first inductively map the multidisciplinary study of AI. Based on an integrative literature review, we identify over 100 concepts that have frequently featured in both technical, social scientific, and humanistic literature concerned with the study the attributes of AI systems and group these into three domains.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 1.** Concepts used in the study of AI-based systems in government categorised by domain </sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 1.** Concepts used in the study of AI-based systems in government categorised by domain </sub>
 
 <p align="center">
   <img src="media/2022-tai-table1.png" width="800" />
@@ -40,12 +40,12 @@ The meaning and topic that concepts in the normative domain collectively express
 
 <img src="media/2022-tai-fig1.png">
 
-**Figure 1.** Concepts frequently used to study AI-based systems in government. A concept map connects operational, epistemic, and normative domain (first level nodes) core concepts (second level nodes) and related terms (third level nodes). See Table 1 for a definition of each concept. Size of nodes and weight of arcs are for illustrative purposes and encode no extra information.
+<sub> **Figure 1.** Concepts frequently used to study AI-based systems in government. A concept map connects operational, epistemic, and normative domain (first level nodes) core concepts (second level nodes) and related terms (third level nodes). See Table 1 for a definition of each concept. Size of nodes and weight of arcs are for illustrative purposes and encode no extra information. <sub>
 
 ## New concepts
 Based on our mapping of the AI in government field, we contend that a new conceptual framework is needed to integrate the diverse conceptual strands that currently permeate scholarship. Here we try to so in the following way: we first propose three new, multi-faceted concepts for studying AI-GOV, before using these to construct a novel conceptual typology of AI-GOV. A ‘typology’, a method to classify observations in terms of their conceptual attributes. The new concepts we introduce are **operational fitness**, **epistemic completeness**, and **normative salience**, defined below in Table 2.
 
-**Table 2.** Proposed dimensions to analyse and classify AI systems in government
+<sub> **Table 2.** Proposed dimensions to analyse and classify AI systems in government <sub>
 
 <p align="center">
   <img src="media/2022-tai-table2.png" width="800" />
@@ -53,7 +53,7 @@ Based on our mapping of the AI in government field, we contend that a new concep
 
 Table 3 provides full-length definitions of the scales proposed for each dimension and relates each to emerging measurements standards, recommended metrics and methods for the measurement and evaluation of AI technologies. 
 
-**Table 3.** Characteristics of proposed dimensions to classify AI-based systems in government
+<sub> **Table 3.** Characteristics of proposed dimensions to classify AI-based systems in government <sub>
 
 <p align="center">
   <img src="media/2022-tai-table3.png" width="800" />
@@ -66,7 +66,7 @@ serves to characterize AI-GOV and further explicate the meaning of each dimensio
 
 <img src="media/2022-tai-fig2.png">
 
-**Figure 2.** Classifying types of AI-based systems in government. A classification schema places select types of AI-based systems in government along three main axes: normative salience, operational fitness, and epistemic completeness. Systems incorporating complex ML models (e.g., neural networks, boosted decision trees, random forests) are contrasted with those using simpler ones (e.g., logistic regression, decision lists). ‘Complex lethal autonomous weapons systems’ are classed as highly contested systems (red box), which exhibit high normative salience and possess advanced operational fitness. A 3-point scale for each dimension is adopted for conceptual parsimony; it is anticipated that future standards for grading real-world systems may use different scales. The draft EU AI Act, for instance, uses a 4-point scale to classify the risk level of an AI system. Where possible, placement of systems is informed by surveys of public attitudes towards AI (e.g., Nussberger et al., 2022), otherwise systems are placed using authors’ own interpretation.
+<sub> **Figure 2.** Classifying types of AI-based systems in government. A classification schema places select types of AI-based systems in government along three main axes: normative salience, operational fitness, and epistemic completeness. Systems incorporating complex ML models (e.g., neural networks, boosted decision trees, random forests) are contrasted with those using simpler ones (e.g., logistic regression, decision lists). ‘Complex lethal autonomous weapons systems’ are classed as highly contested systems (red box), which exhibit high normative salience and possess advanced operational fitness. A 3-point scale for each dimension is adopted for conceptual parsimony; it is anticipated that future standards for grading real-world systems may use different scales. The draft EU AI Act, for instance, uses a 4-point scale to classify the risk level of an AI system. Where possible, placement of systems is informed by surveys of public attitudes towards AI (e.g., Nussberger et al., 2022), otherwise systems are placed using authors’ own interpretation. <sub>
 
 ## Terminology 
 
