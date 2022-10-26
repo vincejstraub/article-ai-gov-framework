@@ -4,6 +4,8 @@
 {:toc}
 </nav>
 
+This is a companion page for the article _Adopting artificial intelligence in government: a unified framework and review_, written by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. It hosts tables and visualizations presented in the article which may be reused under a Creative Commons Attribution 4.0 International license
+
 ## Summary
 
 As artificial intelligence (AI) is adopted by government, we argue that a balanced account is needed to understand the consequences of embedding AI into a public sector context. Here, we unify theoretical efforts across social and technical disciplines by mapping over 100 different terms used in the  study of AI. We inductively sort these into three distinct semantic groups: the (a) operational, (b) epistemic, and (c) normative domains. We then propose three new  concepts to study AI-based systems for government (AI-GOV): (1) **operational fitness**, (2) **epistemic completeness**, and (3) **normative salience**. Finally, we use these concepts as dimensions in a typological framework of AI-GOV and connect each with emerging AI technical measurement standards.
