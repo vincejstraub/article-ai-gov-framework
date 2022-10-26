@@ -18,7 +18,7 @@ Recent advances in artificial intelligence (AI) hold promise to improve governme
 
 To capture the full breadth of analytical perspectives needed to understand AI-GOV, we advance a bottom-up approach and first inductively map the multidisciplinary study of AI. Based on an integrative literature review, we identify over 100 concepts that have frequently featured in both technical, social scientific, and humanistic literature concerned with the study the attributes of AI systems and group these into three domains.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 1.** Concepts used in the study of AI-based systems in government categorised by domain </sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp <sub> **Table 1.** Concepts used in the study of AI-based systems in government categorised by domain </sub>
 
 <p align="center">
   <img src="media/2022-tai-table1.png" width="750" />
