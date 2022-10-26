@@ -45,7 +45,7 @@ The meaning and topic that concepts in the normative domain collectively express
 ## New concepts
 Based on our mapping of the AI in government field, we contend that a new conceptual framework is needed to integrate the diverse conceptual strands that currently permeate scholarship. Here we try to so in the following way: we first propose three new, multi-faceted concepts for studying AI-GOV, before using these to construct a novel conceptual typology of AI-GOV. A ‘typology’, a method to classify observations in terms of their conceptual attributes. The new concepts we introduce are **operational fitness**, **epistemic completeness**, and **normative salience**, defined below in Table 2.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <sub> **Table 2.** Proposed dimensions to analyse and classify AI systems in government <sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 2.** Proposed dimensions to analyse and classify AI systems in government <sub>
 
 <p align="center">
   <img src="media/2022-tai-table2.png" width="700" />
@@ -53,7 +53,7 @@ Based on our mapping of the AI in government field, we contend that a new concep
 
 Table 3 provides full-length definitions of the scales proposed for each dimension and relates each to emerging measurements standards, recommended metrics and methods for the measurement and evaluation of AI technologies. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <sub> **Table 3.** Characteristics of proposed dimensions to classify AI-based systems in government <sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 3.** Characteristics of proposed dimensions to classify AI-based systems in government <sub>
 
 <p align="center">
   <img src="media/2022-tai-table3.png" width="700" />
