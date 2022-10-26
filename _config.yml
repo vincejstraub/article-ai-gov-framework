@@ -2,7 +2,7 @@ title: 'Adopting artificial intelligence in government: a unified framework and 
 description: 'Website supporting the project Adopting artificial intelligence in government: a unified framework and review' 
 toc: true
 author: Public Policy Programme, Alan Turing Institute
-    
+baseurl: /ai-gov-framework
 show_excerpts: true 
 
 theme: minima
