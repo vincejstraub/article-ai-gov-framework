@@ -1,5 +1,5 @@
 <nav class="toc-fixed" markdown="1">
-**Table of Contents**
+**Contents**
 * TOC
 {:toc}
 </nav>
