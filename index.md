@@ -16,7 +16,7 @@ Recent advances in artificial intelligence (AI) hold promise to improve governme
 
 To capture the full breadth of analytical perspectives needed to understand AI-GOV, we advance a bottom-up approach and first inductively map the multidisciplinary study of AI. Based on an integrative literature review, we identify over 100 concepts that have frequently featured in both technical, social scientific, and humanistic literature concerned with the study the attributes of AI systems and group these into three domains.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 1.** Concepts used in the study of AI-based systems in government categorised by domain </sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 1.** Concepts used in the study of AI-based systems in government categorised by domain </sub>
 
 <p align="center">
   <img src="media/2022-tai-table1.png" width="700" />
@@ -40,12 +40,12 @@ The meaning and topic that concepts in the normative domain collectively express
 
 <img src="media/2022-tai-fig1.png">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Figure 1.** Concepts frequently used to study AI-based systems in government. A concept map connects operational, epistemic, and normative domain (first level nodes) core concepts (second level nodes) and related terms (third level nodes). See Table 1 for a definition of each concept. Size of nodes and weight of arcs are for illustrative purposes and encode no extra information. <sub>
+<sub> **Figure 1.** Concepts frequently used to study AI-based systems in government. A concept map connects operational, epistemic, and normative domain (first level nodes) core concepts (second level nodes) and related terms (third level nodes). See Table 1 for a definition of each concept. Size of nodes and weight of arcs are for illustrative purposes and encode no extra information. <sub>
 
 ## New concepts
 Based on our mapping of the AI in government field, we contend that a new conceptual framework is needed to integrate the diverse conceptual strands that currently permeate scholarship. Here we try to so in the following way: we first propose three new, multi-faceted concepts for studying AI-GOV, before using these to construct a novel conceptual typology of AI-GOV. A ‘typology’, a method to classify observations in terms of their conceptual attributes. The new concepts we introduce are **operational fitness**, **epistemic completeness**, and **normative salience**, defined below in Table 2.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 2.** Proposed dimensions to analyse and classify AI systems in government <sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <sub> **Table 2.** Proposed dimensions to analyse and classify AI systems in government <sub>
 
 <p align="center">
   <img src="media/2022-tai-table2.png" width="700" />
