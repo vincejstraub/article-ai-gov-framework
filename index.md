@@ -77,9 +77,6 @@ Since we are pursuing a unified account of AI in government, we follow the defin
 ## Citation
 Straub, V. J., Morgan, D., Bright, J., and Margetts, H. 2022. Adopting artificial intelligence in government: a unified framework and review.
 
-## License
-All content on this page can be reused subject to providing credit and license notice under a Creative Commons Attribution 4.0 International license.
-
 ## About us
 This is a project by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. We are researchers in the AI for Public Services team and the Public Policy Programme at the Alan Turing Institute, you can read more about the programme and institute at: [https://www.turing.ac.uk/research/research-programmes/public-policy](https://www.turing.ac.uk/research/research-programmes/public-policy). 
 
