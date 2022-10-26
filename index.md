@@ -4,8 +4,6 @@
 {:toc}
 </nav>
 
-
-
 ## Summary
 
 As artificial intelligence (AI) is adopted by government, we argue that a balanced account is needed to understand the consequences of embedding AI into a public sector context. Here, we unify theoretical efforts across social and technical disciplines by mapping over 100 different terms used in the  study of AI. We inductively sort these into three distinct semantic groups: the (a) operational, (b) epistemic, and (c) normative domains. We then propose three new  concepts to study AI-based systems for government (AI-GOV): (1) **operational fitness**, (2) **epistemic completeness**, and (3) **normative salience**. Finally, we use these concepts as dimensions in a typological framework of AI-GOV and connecting each with emerging AI technical measurement standards.
@@ -21,7 +19,7 @@ To capture the full breadth of analytical perspectives needed to understand AI-G
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 1.** Concepts used in the study of AI-based systems in government categorised by domain </sub>
 
 <p align="center">
-  <img src="media/2022-tai-table1.png" width="800" />
+  <img src="media/2022-tai-table1.png" width="600" />
 </p>
 
 ## Concept map
@@ -42,23 +40,23 @@ The meaning and topic that concepts in the normative domain collectively express
 
 <img src="media/2022-tai-fig1.png">
 
-<sub> **Figure 1.** Concepts frequently used to study AI-based systems in government. A concept map connects operational, epistemic, and normative domain (first level nodes) core concepts (second level nodes) and related terms (third level nodes). See Table 1 for a definition of each concept. Size of nodes and weight of arcs are for illustrative purposes and encode no extra information. <sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Figure 1.** Concepts frequently used to study AI-based systems in government. A concept map connects operational, epistemic, and normative domain (first level nodes) core concepts (second level nodes) and related terms (third level nodes). See Table 1 for a definition of each concept. Size of nodes and weight of arcs are for illustrative purposes and encode no extra information. <sub>
 
 ## New concepts
 Based on our mapping of the AI in government field, we contend that a new conceptual framework is needed to integrate the diverse conceptual strands that currently permeate scholarship. Here we try to so in the following way: we first propose three new, multi-faceted concepts for studying AI-GOV, before using these to construct a novel conceptual typology of AI-GOV. A ‘typology’, a method to classify observations in terms of their conceptual attributes. The new concepts we introduce are **operational fitness**, **epistemic completeness**, and **normative salience**, defined below in Table 2.
 
-<sub> **Table 2.** Proposed dimensions to analyse and classify AI systems in government <sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 2.** Proposed dimensions to analyse and classify AI systems in government <sub>
 
 <p align="center">
-  <img src="media/2022-tai-table2.png" width="800" />
+  <img src="media/2022-tai-table2.png" width="600" />
 </p>
 
 Table 3 provides full-length definitions of the scales proposed for each dimension and relates each to emerging measurements standards, recommended metrics and methods for the measurement and evaluation of AI technologies. 
 
-<sub> **Table 3.** Characteristics of proposed dimensions to classify AI-based systems in government <sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <sub> **Table 3.** Characteristics of proposed dimensions to classify AI-based systems in government <sub>
 
 <p align="center">
-  <img src="media/2022-tai-table3.png" width="800" />
+  <img src="media/2022-tai-table3.png" width="600" />
 </p>
 
 ## Typology
@@ -72,7 +70,7 @@ serves to characterize AI-GOV and further explicate the meaning of each dimensio
 
 ## Terminology 
 
-Since we are pursuing a unified account of AI in government, we follow the definitional path trodden by studies on the potential of AI (Gil & Selman, 2019). We in turn use the term ‘AI system’ broadly to refer to a data-driven, machine-based system that can complete—with some degree of autonomy and learning ability—a specific cognitive task (or set of tasks), using ML, agent computing, or related techniques. Unsurprisingly, many other terms are also used in discussions of AI in government; ‘algorithmic system’ and ‘automated decision system’ feature prominently in policy and legal articles (Richardson, 2022), for instance. We adopt ‘AI system’, as this arguably better distinguishes contemporary systems from earlier generations of computer technology, in terms of their unique, data-powered nature and advanced analytics capabilities (Pencheva et al., 2020). Adopting this definition nevertheless enables us to conduct a conceptual analysis that is not restricted only to existing ML-based applications, although much of the scholarship we cover focuses on this. Moreover, we further employ ‘AI-GOV’ to emphasize that all government AI systems operate within social and institutional contexts.
+Since we are pursuing a unified account of AI in government, we follow the definitional path trodden by studies on the potential of AI. We in turn use the term ‘AI system’ broadly to refer to a data-driven, machine-based system that can complete—with some degree of autonomy and learning ability—a specific cognitive task (or set of tasks), using ML, agent computing, or related techniques. Unsurprisingly, many other terms are also used in discussions of AI in government; ‘algorithmic system’ and ‘automated decision system’ feature prominently in policy and legal articles, for instance. We adopt ‘AI system’, as this arguably better distinguishes contemporary systems from earlier generations of computer technology, in terms of their unique, data-powered nature and advanced analytics capabilities. Adopting this definition nevertheless enables us to conduct a conceptual analysis that is not restricted only to existing ML-based applications, although much of the scholarship we cover focuses on this. Moreover, we further employ ‘AI-GOV’ to emphasize that all government AI systems operate within social and institutional contexts.
 
 ## Citation
 Straub, V. J., Morgan, D., Bright, J., and Margetts, H. 2022. Adopting artificial intelligence in government: a unified framework and review.
