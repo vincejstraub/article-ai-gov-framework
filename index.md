@@ -4,7 +4,7 @@
 {:toc}
 </nav>
 
-This is a companion page for the article _**Adopting artificial intelligence in government: a unified framework and review**_, written by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. It hosts tables and visualizations presented in the article which may be reused under a Creative Commons Attribution 4.0 International license.
+This is a companion page for the article _**Understanding artificial intelligence in government: mapping over 100 concepts into a unified framework**_, written by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. It hosts tables and visualizations presented in the article which may be reused under a Creative Commons Attribution 4.0 International license.
 
 ## Summary
 
@@ -75,7 +75,7 @@ serves to characterize AI-GOV and further explicate the meaning of each dimensio
 Since we are pursuing a unified account of AI in government, we follow the definitional path trodden by studies on the potential of AI. We in turn use the term ‘AI system’ broadly to refer to a data-driven, machine-based system that can complete—with some degree of autonomy and learning ability—a specific cognitive task (or set of tasks), using ML, agent computing, or related techniques. Unsurprisingly, many other terms are also used in discussions of AI in government; ‘algorithmic system’ and ‘automated decision system’ feature prominently in policy and legal articles, for instance. We adopt ‘AI system’, as this arguably better distinguishes contemporary systems from earlier generations of computer technology, in terms of their unique, data-powered nature and advanced analytics capabilities. Adopting this definition nevertheless enables us to conduct a conceptual analysis that is not restricted only to existing ML-based applications, although much of the scholarship we cover focuses on this. Moreover, we further employ ‘AI-GOV’ to emphasize that all government AI systems operate within social and institutional contexts.
 
 ## Citation
-Straub, V. J., Morgan, D., Bright, J., and Margetts, H. 2022. Adopting artificial intelligence in government: a unified framework and review.
+Straub, V. J., Morgan, D., Bright, J., and Margetts, H. 2022.  Understanding artificial intelligence in government: mapping over 100 concepts into a unified framework.
 
 ## About us
 This is a project by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. We are researchers in the Public Policy Programme at the Alan Turing Institute, you can read more about the programme and institute at: [https://www.turing.ac.uk/research/research-programmes/public-policy](https://www.turing.ac.uk/research/research-programmes/public-policy). 
