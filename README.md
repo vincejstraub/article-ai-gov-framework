@@ -1,8 +1,3 @@
-# To Do: 
-
-2. Add zoom function for hovering over images; https://github.com/imgix/drift
-3. Add download paper button to header
-
 #  Artificial intelligence in government: Concepts, standards, and a unified framework 
 This repo contains the companion page for the article [_Artificial intelligence in government: Concepts, standards, and a unified framework_](https://www.turing.ac.uk/research/research-programmes/public-policy), written by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. It hosts tables and visualizations presented in the article which may be reused under a Creative Commons Attribution 4.0 International license.
 
