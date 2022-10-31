@@ -1,6 +1,5 @@
 # To Do: 
 
-1. Update tables
 2. Add header
 2. Add zoom function for hovering over images
 3. Add download paper button to header
