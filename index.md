@@ -4,8 +4,6 @@
 {:toc}
 </nav>
 
-## Top
-
 <p><a href="https://www.w3schools.com">
 <img src="images/draft_paper_button.png" width="230" height="65" >
 </a></p>
