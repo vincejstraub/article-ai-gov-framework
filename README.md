@@ -1,6 +1,6 @@
 # To Do: 
 
-2. Add zoom function for hovering over images
+2. Add zoom function for hovering over images; https://github.com/imgix/drift
 3. Add download paper button to header
 
 #  Artificial intelligence in government: Concepts, standards, and a unified framework 
