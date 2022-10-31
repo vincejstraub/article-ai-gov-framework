@@ -3,7 +3,6 @@
 * TOC
 {:toc}
 </nav>
-
 ## Top
 
 This is a companion page for the article _**Artificial intelligence in government: Concepts, standards, and a unified framework**_, written by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. It hosts tables and visualizations presented in the article which may be reused under a Creative Commons Attribution 4.0 International license.
