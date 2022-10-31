@@ -21,7 +21,7 @@ To capture the full breadth of analytical perspectives needed to understand AI-G
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 1.** Concepts used in the study of AI-based systems in government categorised by domain </sub>
 
 <p align="center">
-  <img src="media/2022-tai-table1.png" width="750" />
+  <img src="images/2022-tai-table1.png" width="750" />
 </p>
 
 ## Concept map
@@ -40,7 +40,7 @@ Epistemic domain concepts are understood to predominantly deal with knowledge-re
 
 The meaning and topic that concepts in the normative domain collectively express relate to the entitlements, values, and principles of political morality that affected parties hold towards, and expect of, AI-GOV, a particular AI application, administration, bureaucratic actor(s), or policy.
 
-<img src="media/2022-tai-fig1.png" width="900">
+<img src="images/2022-tai-fig1.png" width="900">
 
 <sub> **Figure 1.** Concepts frequently used to study AI-based systems in government. A concept map connects operational, epistemic, and normative domain (first level nodes) core concepts (second level nodes) and related terms (third level nodes). See Table 1 for a definition of each concept. Size of nodes and weight of arcs are for illustrative purposes and encode no extra information. <sub>
 
@@ -50,7 +50,7 @@ Based on our mapping of the AI in government field, we contend that a new concep
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 2.** Proposed dimensions to analyse and classify AI systems in government <sub>
 
 <p align="center">
-  <img src="media/2022-tai-table2.png" width="750" />
+  <img src="images/2022-tai-table2.png" width="750" />
 </p>
 
 Table 3 provides full-length definitions of the scales proposed for each dimension and relates each to emerging measurements standards, recommended metrics and methods for the measurement and evaluation of AI technologies. 
@@ -58,7 +58,7 @@ Table 3 provides full-length definitions of the scales proposed for each dimensi
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 3.** Characteristics of proposed dimensions to classify AI-based systems in government <sub>
 
 <p align="center">
-  <img src="media/2022-tai-table3.png" width="750" />
+  <img src="images/2022-tai-table3.png" width="750" />
 </p>
 
 ## Typology
@@ -66,7 +66,7 @@ Table 3 provides full-length definitions of the scales proposed for each dimensi
 Our typology of government AI-based systems is formed of three dimensions, introduced above: operational fitness, epistemic completeness, and normative variance. In making use of these dimensions, our typology serves two main functions. It is both theory-building in the sense that it
 serves to characterize AI-GOV and further explicate the meaning of each dimension, and classificatory, in that it places examples of different types of AI-GOV in conceptually appropriate cells.
 
-<img src="media/2022-tai-fig2.png" width="900">
+<img src="images/2022-tai-fig2.png" width="900">
 
 <sub> **Figure 2.** Classifying types of AI-based systems in government. A classification schema places select types of AI-based systems in government along three main axes: normative salience, operational fitness, and epistemic completeness. Systems incorporating complex ML models (e.g., neural networks, boosted decision trees, random forests) are contrasted with those using simpler ones (e.g., logistic regression, decision lists). ‘Complex lethal autonomous weapons systems’ are classed as highly contested systems (red box), which exhibit high normative salience and possess advanced operational fitness. A 3-point scale for each dimension is adopted for conceptual parsimony; it is anticipated that future standards for grading real-world systems may use different scales. The draft EU AI Act, for instance, uses a 4-point scale to classify the risk level of an AI system. Where possible, placement of systems is informed by surveys of public attitudes towards AI (e.g., Nussberger et al., 2022), otherwise systems are placed using authors’ own interpretation. <sub>
 
