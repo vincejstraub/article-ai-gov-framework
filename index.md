@@ -11,7 +11,7 @@
 </a></p>
 
 
-This is a companion page for _**Artificial intelligence in government: Concepts, standards, and a unified framework**_ by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. Tables and figures presented below may be reused under a Creative Commons Attribution 4.0 International license.
+This is a companion page for the paper _**Artificial intelligence in government: Concepts, standards, and a unified framework**_ by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. Tables and figures presented below may be reused under a Creative Commons Attribution 4.0 International license.
 
 ## Summary
 
