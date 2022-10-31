@@ -7,7 +7,7 @@
 ## Top
 
 <p><a href="https://www.w3schools.com">
-<img src="images/draft_paper_button.png" width="270" height="81" align="right">
+<img src="images/draft_paper_button.png" width="260" height="75" align="right">
 </a></p>
 
 
