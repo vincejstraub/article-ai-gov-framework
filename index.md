@@ -6,7 +6,9 @@
 
 ## Top
 
-<p></a href="https://arxiv.org/"><img align="right" img src="images/draft_paper_button.png" width="270" height="81"></a></p>
+<p><a href="https://www.w3schools.com">
+<img src="images/draft_paper_button.png" width="270" height="81" align="right">
+</a></p>
 
 
 This is a companion page for _**Artificial intelligence in government: Concepts, standards, and a unified framework**_ by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. It hosts tables and figures presented in the paper which may be reused under a Creative Commons Attribution 4.0 International license.
