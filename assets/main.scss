@@ -3,14 +3,6 @@
 
 @import "minima";
 
-.site-title::before {
-	content: url("/assets/images/alan_turing_institute_logo.jpeg");
-	display: inline-block;
-	position: relative;
-	width: 55px;
-	top: 25px;
-}
-
 div.wrapper {max-width:870px;margin-left:10%;}
 div.post-content > p {width:90%;max-width:800;}
 nav.toc-fixed {position:fixed;top:280px;left:80%;max-width:220px}
