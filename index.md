@@ -8,7 +8,7 @@
 <img src="images/draft_paper_button.png" width="230" height="65" >
 </a></p>
 
-This is a companion page for the paper _**Artificial intelligence in government: Concepts, standards, and a unified framework**_ by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. Tables and figures presented below may be reused under a Creative Commons Attribution 4.0 International license. The page is best viewed on a desktop device.
+This is a companion page for the paper _**Artificial intelligence in government: Concepts, standards, and a unified framework**_ by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. Tables and figures presented below may be downloaded and reused under a Creative Commons Attribution 4.0 International license. The page is best viewed on a desktop device.
 
 ## Summary
 
@@ -30,7 +30,7 @@ To capture the full breadth of analytical perspectives needed to understand AI-G
 
 ## Concept map
 
-The labels we give to the three domains we use to group concepts are: the (a) **operational**, (b) **epistemic**, and (c) **normative domain**, defined below. The concepts in each of the three domains are not necessarily synonymous but are all used to discuss AI-GOV in a similar way. Each domain, therefore, loosely functions as a ‘semantic field’, an aggregate of words that all share a core meaning related to a specific topic.
+The labels we give to the three domains we use to group concepts are the (a) **operational**, (b) **epistemic**, and (c) **normative domain**, briefly defined below (see paper for details). The concepts in each of the three domains are not necessarily synonymous but are all used to discuss AI-GOV in a similar way. Each domain, therefore, loosely functions as a ‘semantic field’, an aggregate of words that all share a core meaning related to a specific topic.
 
 **Operational domain**
 
@@ -49,7 +49,7 @@ The meaning and topic that concepts in the normative domain collectively express
 <sub> **Figure 1.** Concepts frequently used to study AI-based systems in government. A concept map connects operational, epistemic, and normative domain (first level nodes) core concepts (second level nodes) and related terms (third level nodes). See Table 1 for a definition of each concept. Size of nodes and weight of arcs are for illustrative purposes and encode no extra information. <sub>
 
 ## New concepts
-Based on our mapping of the AI in government field, we contend that a new conceptual framework is needed to integrate the diverse conceptual strands that currently permeate scholarship. Here we try to so in the following way: we first propose three new, multi-faceted concepts for studying AI-GOV, before using these to construct a novel conceptual 'typology' of AI-GOV, a method to classify observations in terms of their conceptual attributes. We label the new concepts we introduce **operational fitness**, **epistemic completeness**, and **normative salience**, defined below in Table 2.
+Based on our mapping of the AI in government field, we contend that a new conceptual framework is needed to integrate the diverse conceptual strands that currently permeate scholarship. Here, we try to do so in the following way: we first propose three new, multi-faceted concepts for studying AI-GOV, before using these to construct a novel conceptual 'typology' of AI-GOV, a method to classify observations in terms of their conceptual attributes. We label the new concepts we introduce **operational fitness**, **epistemic completeness**, and **normative salience**, defined below in Table 2.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 2.** Proposed dimensions to analyse and classify AI systems in government <sub>
 
@@ -76,7 +76,7 @@ serves to characterize AI-GOV and further explicate the meaning of each dimensio
 
 ## Terminology 
 
-Since we are pursuing a unified account of AI in government, we follow the definitional path trodden by past studies on the potential of AI. We in turn use the term ‘AI system’ broadly to refer to a data-driven, machine-based system that can complete—with some degree of autonomy and learning ability—a specific cognitive task (or set of tasks), using ML, agent computing, or related techniques. Unsurprisingly, many other terms are also used in discussions of AI in government; ‘algorithmic system’ and ‘automated decision system’ feature prominently in policy and legal articles, for instance. We adopt ‘AI system’, as this arguably better distinguishes contemporary systems from earlier generations of computer technology, in terms of their unique, data-powered nature and advanced analytics capabilities. Adopting this definition nevertheless enables us to conduct a conceptual analysis that is not restricted only to existing ML-based applications, although much of the scholarship we cover focuses on this. Moreover, we further employ ‘AI-GOV’ to emphasize that all government AI systems operate within social and institutional contexts.
+Since we are pursuing a unified account of AI in government, we follow the definitional path trodden by studies on the potential of AI. We in turn use the term ‘AI system’ broadly to refer to a data-driven, machine-based system that can complete—with some degree of autonomy and learning ability—a specific cognitive task (or set of tasks), using ML, agent computing, or related techniques. Unsurprisingly, many other terms are also used in discussions of AI in government; ‘algorithmic system’ and ‘automated decision system’ feature prominently in policy and legal articles, for instance. We adopt ‘AI system’, as this arguably better distinguishes contemporary systems from earlier generations of computer technology, in terms of their unique, data-powered nature and advanced analytics capabilities. Adopting this definition nevertheless enables us to conduct a conceptual analysis that is not restricted only to existing ML-based applications, although much of the scholarship we cover focuses on this. Moreover, we further employ ‘AI-GOV’ to emphasize that all government AI systems operate within social and institutional contexts.
 
 ## Citation
 Straub, V. J., Morgan, D., Bright, J., and Margetts, H. (2022). Artificial intelligence in government: Concepts, standards, and a unified framework. arXiv preprint arXiv:2210.17218. DOI: [https://doi.org/10.48550/arXiv.2210.17218](https://doi.org/10.48550/arXiv.2210.17218). 
