@@ -4,7 +4,7 @@
 {:toc}
 </nav>
 
-<p><a href="https://www.w3schools.com">
+<p><a href="https://arxiv.org/pdf/2210.17218.pdf" target="_blank">
 <img src="images/draft_paper_button.png" width="230" height="65" >
 </a></p>
 
