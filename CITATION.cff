@@ -1,9 +1,0 @@
-@article{,
-  doi = {10.48550/ARXIV.2207.07048},
-  url = {https://arxiv.org/abs/2207.07048},
-  author = {Kapoor, Sayash and Narayanan, Arvind},  
-  title = {Leakage and the Reproducibility Crisis in ML-based Science},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
-}
