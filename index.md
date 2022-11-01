@@ -8,7 +8,7 @@
 <img src="images/draft_paper_button.png" width="230" height="65" >
 </a></p>
 
-This is a companion page for the paper _**Artificial intelligence in government: Concepts, standards, and a unified framework**_ by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. Tables and figures presented below may be reused under a Creative Commons Attribution 4.0 International license. The page is intended to be viewed on a desktop device.
+This is a companion page for the paper _**Artificial intelligence in government: Concepts, standards, and a unified framework**_ by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. Tables and figures presented below may be reused under a Creative Commons Attribution 4.0 International license. The page is best viewed on a desktop device.
 
 ## Summary
 
