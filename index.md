@@ -80,6 +80,8 @@ Since we are pursuing a unified account of AI in government, we follow the defin
 
 ## Citation
 Straub, V. J., Morgan, D., Bright, J., and Margetts, H. (2022). Artificial intelligence in government: Concepts, standards, and a unified framework. arXiv preprint arXiv:2210.17218. DOI: [https://doi.org/10.48550/arXiv.2210.17218](https://doi.org/10.48550/arXiv.2210.17218). 
+  
+You can also use this [BibTeX entry](https://github.com/vincejstraub/ai-gov-framework/blob/main/CITATION.bib).
 
 ## About us
 This is a project by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. We are researchers in the Public Policy Programme at the Alan Turing Institute, you can read more about the programme and institute at: [https://www.turing.ac.uk/research/research-programmes/public-policy](https://www.turing.ac.uk/research/research-programmes/public-policy). 
