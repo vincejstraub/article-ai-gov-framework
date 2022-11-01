@@ -1,5 +1,5 @@
 #  Artificial intelligence in government: Concepts, standards, and a unified framework 
-This repo contains the companion page for the article [_Artificial intelligence in government: Concepts, standards, and a unified framework_](https://www.turing.ac.uk/research/research-programmes/public-policy), written by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. It hosts tables and visualizations presented in the article which may be reused under a Creative Commons Attribution 4.0 International license.
+This repo contains the companion page for the article [_Artificial intelligence in government: Concepts, standards, and a unified framework_](https://arxiv.org/abs/2210.17218), written by Vincent Straub, Deborah Morgan, Jonathan Bright, and Helen Margetts. It hosts tables and visualizations presented in the article which may be reused under a Creative Commons Attribution 4.0 International license.
 
 The companion page can be accessed at: [https://vincejstraub.github.io/ai-gov-framework/](https://vincejstraub.github.io/ai-gov-framework/)
 
