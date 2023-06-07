@@ -5,6 +5,8 @@ The page can be accessed at: [https://ai-for-public-services.github.io/ai-gov-fr
 
 ## Installation and use
 
+Description of files contained in repository:
+
 ```
 ├── code/
 │   └── notebooks/  --> This directory contains a jupyter notebooks for plotting Figure 1C
