@@ -41,17 +41,17 @@ After constructing our final literature corpus and downloading each article, we 
 Turning to the concept co-occurrence clustering results, modularity analysis of the co-occurrence network produced 5 main clusters of concepts (domains), assumed herein to represent distinct subject areas. A distinction can further be made between the three bigger green, purple, and blue clusters (see Fig. 2 for colour reference) that include 86% of all concepts, and the two smaller orange and red clusters that include the remaining 14%. Of the 64 concepts extracted from the corpus of articles that co-occurred with at least 1 other concept, 23 (36%) were grouped into cluster 1 (green), in which two of the bridging terms, ‘public’ and ‘social’, appear the most. While 22 (34%) were grouped into cluster 2 (purple), in which the other two bridging terms ‘intelligence’ and ‘ethical’ predominate, and 10 (16%) are contained in cluster 3 (blue), in which ‘trust’ occurs the most, with a total of 3 occurrences. Finally, cluster 4 (orange) and cluster 5 (red) contain 5 (8%) and 4 (6%) concepts, respectively. The concept ‘analytical’ occurs the most in cluster 4 with a total of 3 occurrences, while the concepts ‘organizational’, ‘performance’, and ‘sociotechnical’ in cluster 5 each occur 2 times.  
   
 ## New concepts
-Based on our mapping of the AI in government field, we contend that a new conceptual framework is needed to integrate the diverse conceptual strands that currently permeate scholarship. Here, we try to do so in the following way: we first propose three new, multi-faceted concepts for studying AI-GOV, before using these to construct a novel conceptual 'typology' of AI-GOV, a method to classify observations in terms of their conceptual attributes. We label the new concepts we introduce **operational fitness**, **epistemic completeness**, and **normative salience**, defined below in Table 2.
+Based on our mapping of the AI in government field, we contend that a new conceptual framework is needed to integrate the diverse conceptual strands that currently permeate scholarship. Here, we try to do so in the following way: we first propose three new, multi-faceted concepts for studying AI-GOV, before using these to construct a novel conceptual 'typology' of AI-GOV, a method to classify observations in terms of their conceptual attributes. We label the new concepts we introduce **operational fitness**, **epistemic completeness**, and **normative salience**, defined below in Table 1.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 2.** Proposed dimensions to analyse and classify AI systems in government <sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 1.** Proposed dimensions to analyse and classify AI systems in government <sub>
 
 <p align="center">
   <img src="images/2023-tai-table2.png" width="750" />
 </p>
 
-Table 3 provides full-length definitions of the scales proposed for each dimension and relates each to emerging measurements standards, recommended metrics and methods for the measurement and evaluation of AI technologies. 
+Table 2 provides full-length definitions of the scales proposed for each dimension and relates each to emerging measurements standards, recommended metrics and methods for the measurement and evaluation of AI technologies. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 3.** Characteristics of proposed dimensions to classify AI-based systems in government <sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <sub> **Table 2.** Characteristics of proposed dimensions to classify AI-based systems in government <sub>
 
 <p align="center">
   <img src="images/2023-tai-table3.png" width="750" />
