@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-05-30">
+    <creator>NetworkX 2.7.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="agency" label="agency" />
+      <node id="ethical" label="ethical" />
+      <node id="responsibility" label="responsibility" />
+      <node id="risk" label="risk" />
+      <node id="alignment" label="alignment" />
+      <node id="moral" label="moral" />
+      <node id="principled" label="principled" />
+      <node id="autonomy" label="autonomy" />
+      <node id="cognitive" label="cognitive" />
+      <node id="control" label="control" />
+      <node id="decisive" label="decisive" />
+      <node id="awareness" label="awareness" />
+      <node id="intention" label="intention" />
+      <node id="analytical" label="analytical" />
+      <node id="capability" label="capability" />
+      <node id="organizational" label="organizational" />
+      <node id="performance" label="performance" />
+      <node id="growth" label="growth" />
+      <node id="intelligence" label="intelligence" />
+      <node id="competency" label="competency" />
+      <node id="knowledge" label="knowledge" />
+      <node id="discretion" label="discretion" />
+      <node id="public" label="public" />
+      <node id="bureaucratic" label="bureaucratic" />
+      <node id="expectancy" label="expectancy" />
+      <node id="social" label="social" />
+      <node id="transparency" label="transparency" />
+      <node id="bias" label="bias" />
+      <node id="technical" label="technical" />
+      <node id="auditable" label="auditable" />
+      <node id="explainability" label="explainability" />
+      <node id="legal" label="legal" />
+      <node id="sociotechnical" label="sociotechnical" />
+      <node id="explicit" label="explicit" />
+      <node id="focused" label="focused" />
+      <node id="productivity" label="productivity" />
+      <node id="innovative" label="innovative" />
+      <node id="intuitive" label="intuitive" />
+      <node id="privacy" label="privacy" />
+      <node id="augmentative" label="augmentative" />
+      <node id="liablility" label="liablility" />
+      <node id="autonomous" label="autonomous" />
+      <node id="impact" label="impact" />
+      <node id="democratic" label="democratic" />
+      <node id="safety" label="safety" />
+      <node id="judicial" label="judicial" />
+      <node id="operational" label="operational" />
+      <node id="potential" label="potential" />
+      <node id="collaborative" label="collaborative" />
+      <node id="functioning" label="functioning" />
+      <node id="informative" label="informative" />
+      <node id="smart" label="smart" />
+      <node id="harm" label="harm" />
+      <node id="human-in-the-loop" label="human-in-the-loop" />
+      <node id="political" label="political" />
+      <node id="dignity" label="dignity" />
+      <node id="trust" label="trust" />
+      <node id="consent" label="consent" />
+      <node id="protection" label="protection" />
+      <node id="accountable" label="accountable" />
+      <node id="rational" label="rational" />
+      <node id="confidence" label="confidence" />
+      <node id="affective" label="affective" />
+      <node id="normative" label="normative" />
+    </nodes>
+    <edges>
+      <edge source="agency" target="ethical" id="0" weight="1" />
+      <edge source="agency" target="responsibility" id="1" weight="1" />
+      <edge source="agency" target="risk" id="2" weight="1" />
+      <edge source="agency" target="alignment" id="3" weight="1" />
+      <edge source="agency" target="moral" id="4" weight="1" />
+      <edge source="agency" target="principled" id="5" weight="1" />
+      <edge source="ethical" target="expectancy" id="6" weight="1" />
+      <edge source="ethical" target="intelligence" id="7" weight="3" />
+      <edge source="ethical" target="public" id="8" weight="4" />
+      <edge source="ethical" target="responsibility" id="9" weight="2" />
+      <edge source="ethical" target="risk" id="10" weight="1" />
+      <edge source="ethical" target="social" id="11" weight="2" />
+      <edge source="ethical" target="transparency" id="12" weight="2" />
+      <edge source="ethical" target="bias" id="13" weight="1" />
+      <edge source="ethical" target="moral" id="14" weight="1" />
+      <edge source="ethical" target="principled" id="15" weight="3" />
+      <edge source="ethical" target="technical" id="16" weight="1" />
+      <edge source="ethical" target="auditable" id="17" weight="1" />
+      <edge source="responsibility" target="innovative" id="18" weight="1" />
+      <edge source="responsibility" target="public" id="19" weight="1" />
+      <edge source="responsibility" target="risk" id="20" weight="1" />
+      <edge source="responsibility" target="principled" id="21" weight="1" />
+      <edge source="risk" target="intelligence" id="22" weight="2" />
+      <edge source="risk" target="privacy" id="23" weight="1" />
+      <edge source="risk" target="public" id="24" weight="1" />
+      <edge source="risk" target="bias" id="25" weight="1" />
+      <edge source="risk" target="democratic" id="26" weight="1" />
+      <edge source="alignment" target="moral" id="27" weight="1" />
+      <edge source="alignment" target="principled" id="28" weight="1" />
+      <edge source="moral" target="principled" id="29" weight="2" />
+      <edge source="principled" target="public" id="30" weight="1" />
+      <edge source="autonomy" target="cognitive" id="31" weight="1" />
+      <edge source="autonomy" target="control" id="32" weight="1" />
+      <edge source="autonomy" target="decisive" id="33" weight="1" />
+      <edge source="cognitive" target="growth" id="34" weight="1" />
+      <edge source="cognitive" target="intelligence" id="35" weight="1" />
+      <edge source="decisive" target="explainability" id="36" weight="1" />
+      <edge source="decisive" target="public" id="37" weight="2" />
+      <edge source="decisive" target="explicit" id="38" weight="1" />
+      <edge source="awareness" target="intention" id="39" weight="1" />
+      <edge source="awareness" target="analytical" id="40" weight="1" />
+      <edge source="intention" target="analytical" id="41" weight="1" />
+      <edge source="analytical" target="intelligence" id="42" weight="1" />
+      <edge source="analytical" target="intuitive" id="43" weight="2" />
+      <edge source="capability" target="organizational" id="44" weight="1" />
+      <edge source="capability" target="performance" id="45" weight="1" />
+      <edge source="organizational" target="performance" id="46" weight="1" />
+      <edge source="organizational" target="sociotechnical" id="47" weight="1" />
+      <edge source="performance" target="operational" id="48" weight="1" />
+      <edge source="growth" target="intelligence" id="49" weight="1" />
+      <edge source="growth" target="productivity" id="50" weight="1" />
+      <edge source="intelligence" target="competency" id="51" weight="1" />
+      <edge source="intelligence" target="focused" id="52" weight="1" />
+      <edge source="intelligence" target="intuitive" id="53" weight="1" />
+      <edge source="intelligence" target="knowledge" id="54" weight="2" />
+      <edge source="intelligence" target="legal" id="55" weight="2" />
+      <edge source="intelligence" target="privacy" id="56" weight="2" />
+      <edge source="intelligence" target="public" id="57" weight="1" />
+      <edge source="intelligence" target="social" id="58" weight="1" />
+      <edge source="intelligence" target="augmentative" id="59" weight="1" />
+      <edge source="intelligence" target="liablility" id="60" weight="1" />
+      <edge source="intelligence" target="auditable" id="61" weight="1" />
+      <edge source="intelligence" target="autonomous" id="62" weight="1" />
+      <edge source="intelligence" target="impact" id="63" weight="1" />
+      <edge source="intelligence" target="democratic" id="64" weight="1" />
+      <edge source="intelligence" target="safety" id="65" weight="1" />
+      <edge source="competency" target="knowledge" id="66" weight="1" />
+      <edge source="discretion" target="public" id="67" weight="3" />
+      <edge source="discretion" target="bureaucratic" id="68" weight="1" />
+      <edge source="public" target="expectancy" id="69" weight="1" />
+      <edge source="public" target="explainability" id="70" weight="1" />
+      <edge source="public" target="potential" id="71" weight="1" />
+      <edge source="public" target="social" id="72" weight="2" />
+      <edge source="public" target="transparency" id="73" weight="2" />
+      <edge source="public" target="collaborative" id="74" weight="1" />
+      <edge source="public" target="functioning" id="75" weight="1" />
+      <edge source="public" target="bureaucratic" id="76" weight="1" />
+      <edge source="public" target="explicit" id="77" weight="1" />
+      <edge source="public" target="informative" id="78" weight="1" />
+      <edge source="public" target="smart" id="79" weight="1" />
+      <edge source="social" target="harm" id="80" weight="1" />
+      <edge source="social" target="human-in-the-loop" id="81" weight="1" />
+      <edge source="social" target="liablility" id="82" weight="1" />
+      <edge source="social" target="political" id="83" weight="1" />
+      <edge source="social" target="technical" id="84" weight="1" />
+      <edge source="social" target="dignity" id="85" weight="1" />
+      <edge source="social" target="smart" id="86" weight="1" />
+      <edge source="social" target="safety" id="87" weight="1" />
+      <edge source="transparency" target="trust" id="88" weight="1" />
+      <edge source="transparency" target="bias" id="89" weight="1" />
+      <edge source="transparency" target="consent" id="90" weight="1" />
+      <edge source="transparency" target="informative" id="91" weight="1" />
+      <edge source="transparency" target="protection" id="92" weight="1" />
+      <edge source="explainability" target="legal" id="93" weight="1" />
+      <edge source="explainability" target="sociotechnical" id="94" weight="1" />
+      <edge source="explainability" target="explicit" id="95" weight="1" />
+      <edge source="legal" target="judicial" id="96" weight="1" />
+      <edge source="privacy" target="impact" id="97" weight="1" />
+      <edge source="privacy" target="democratic" id="98" weight="1" />
+      <edge source="augmentative" target="autonomous" id="99" weight="1" />
+      <edge source="liablility" target="safety" id="100" weight="1" />
+      <edge source="harm" target="dignity" id="101" weight="1" />
+      <edge source="trust" target="accountable" id="102" weight="1" />
+      <edge source="trust" target="consent" id="103" weight="1" />
+      <edge source="trust" target="rational" id="104" weight="1" />
+      <edge source="trust" target="confidence" id="105" weight="1" />
+      <edge source="trust" target="protection" id="106" weight="1" />
+      <edge source="trust" target="affective" id="107" weight="1" />
+      <edge source="trust" target="normative" id="108" weight="1" />
+      <edge source="consent" target="protection" id="109" weight="1" />
+      <edge source="accountable" target="rational" id="110" weight="1" />
+      <edge source="accountable" target="confidence" id="111" weight="1" />
+      <edge source="accountable" target="affective" id="112" weight="1" />
+      <edge source="accountable" target="normative" id="113" weight="1" />
+      <edge source="rational" target="confidence" id="114" weight="1" />
+      <edge source="rational" target="affective" id="115" weight="1" />
+      <edge source="rational" target="normative" id="116" weight="1" />
+      <edge source="confidence" target="affective" id="117" weight="1" />
+      <edge source="confidence" target="normative" id="118" weight="1" />
+      <edge source="affective" target="normative" id="119" weight="1" />
+    </edges>
+  </graph>
+</gexf>
