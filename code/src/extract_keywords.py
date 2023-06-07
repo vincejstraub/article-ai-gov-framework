@@ -13,7 +13,7 @@ def extract_keywords(text):
     deduplication_thresold = 0.9
     deduplication_algo = 'seqm'
     windowSize = 1
-    numOfKeywords = 5
+    numOfKeywords = 10
 
     kw_extractor = yake.KeywordExtractor(lan=language, 
                                          n=max_ngram_size, 

@@ -20,7 +20,7 @@ import matplotlib as mpl
 def write_to_gexf():
 
     data = pd.read_excel(
-        '../../data/processed/google_scholar_results_processed_concepts_v3.xlsx'
+        '../../data/processed/search_results_processed_concepts_v3.xlsx'
     )
 
     # prepare data 

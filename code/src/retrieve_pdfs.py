@@ -24,7 +24,7 @@ def run_automatic_extraction():
     return database
 
 
-def load_database(filepath='../data/processed/google_scholar_results_processed.xlsx'):
+def load_database(filepath='../data/processed/search_results_processed.xlsx'):
     database_df = pd.read_excel(filepath)
 
     return database_df

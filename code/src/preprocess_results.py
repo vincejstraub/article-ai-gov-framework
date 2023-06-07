@@ -2,8 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-The preprocess_results.py cleans the search results retrieved
-from Google Scholar.
+The preprocess_results.py cleans the retrieved search results.
 """
 
 
@@ -22,11 +21,11 @@ def main():
     )
     
     database_df.to_excel(
-        '../data/processed/google_scholar_organic_results_processed.xlsx'
+        '../data/processed/search_esults_processed.xlsx'
     )
 
 
-def load_database(filepath='../data/raw/google_scholar_organic_results.csv'):
+def load_database(filepath='../data/raw/raw_search_results.csv'):
     database = pd.read_csv(filepath)
 
     return database
