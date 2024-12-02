@@ -3,6 +3,10 @@ This repo contains all code and data and the companion page for the article [_Ar
 
 The page can be accessed at: [https://ai-for-public-services.github.io/ai-gov-framework/](https://ai-for-public-services.github.io/ai-gov-framework/)
 
+The article that now been published and can be accessed via the link below:
+
+> Straub, V. J., Morgan, D., Bright, J., & Margetts, H. (2023). Artificial intelligence in government: Concepts, standards, and a unified framework. Government Information Quarterly, 40(4), 101881. [https://www.sciencedirect.com/science/article/pii/S0740624X23000813](https://www.sciencedirect.com/science/article/pii/S0740624X23000813)
+
 ## Installation and use
 
 Description of files contained in repository:
