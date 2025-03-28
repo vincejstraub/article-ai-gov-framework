@@ -15,7 +15,7 @@ import os, json
 
 def scrape_organic_results():
     params = {
-      "api_key": "5022b2a1f7e0de1c135eff95c7c1f8f82a73502faee4c81581c0c8d78a27d241", # your serpapi api key
+      "api_key": "", # your serpapi api key
       "engine": "google_scholar",
       "q": '"data science" OR "artificial intelligence" OR "machine learning" OR "cognitive intelligence" AND "public policy" OR "government" OR "policy" OR "public sector" OR "public digital services" OR "government innovation" OR "digital government" OR "artificial for government" AND "framework" OR "typology" OR "mapping" OR "classification" OR "taxonomy" OR "ontology" OR "concept" OR theory"',
       "hl": "en", # language
